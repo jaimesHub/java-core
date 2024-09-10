@@ -2,7 +2,8 @@ package javacore;
 
 public class HelloWorld {
 	public static void main(String[] args) {
-		System.out.println("Hello World");
-		System.out.println("Hello World");
+		int age = 28;
+		int test = 5 + 9 * 3 - 10 / 2;
+		System.out.println(test);
 	}
 }
